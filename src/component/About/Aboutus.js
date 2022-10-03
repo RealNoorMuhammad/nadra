@@ -295,15 +295,14 @@ export default class PageNotFound extends Component {
           <br />
           <div className="container">
             <p style={{ color: "#444", fontWeight: "100", fontSize: "20px" }}>
-              Da’shone Hughey Is the founder of CODEIT Institute of Technology
-              (CIT) and the Blockchain Lab. Da’shone has a Postgraduate
-              Certificate in Education Law from the Shepard Broad College of
-              Law, a Masters in Degree in Education, M.Ed., and a PMI
-              Certification in Project Management. In addition, Mr. Hughey
-              completed his studies in Blockchain Technologies at the
-              Massachusetts Institute of Technology Sloan School Management and
-              has studied abroad at Hebrew University. He was also inducted into
-              Marquis Who’s Who in America.
+              Mohammed Kateregga holds a bachelor’s degree in Government from
+              Makerere University in Kampala Uganda as well as a Post Graduate
+              Certificate in Software Engineering from Clarke International
+              University. Mohammed currently serves as the Program Director for
+              CODEIT Institute of Technology in East Africa and is a Co-Founder
+              of Nadra.Life. His specialty is Mobile and Web App development
+              (Full Stack), Data Analysis, Cyber Security and Blockchain/Web3
+              research.
             </p>
           </div>
           <br />
