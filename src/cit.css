@@ -1,0 +1,22 @@
+      
+
+.crumbs ol {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.crumb {
+    display: inline-block;
+}
+a {
+	
+	font-size: 20px;
+  
+    text-underline-position: none;
+}
+
+#tab{
+    color: orange;
+    background-color: brown;
+}
+
